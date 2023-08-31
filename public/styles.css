@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+
+.heading{
+    text-align: center;
+    padding: 12px;
+    color: red;
+    text-shadow: 10em;
+}
+
+.worlds{
+    padding: 28px;
+    margin-top: 140px;
+}
+
+.card-body{
+    box-shadow: inset;
+}
